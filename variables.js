@@ -9,3 +9,11 @@ var favNumber = 7
 var married = false
 var male = true
 var employed = false
+
+firstName = "Joseph"
+lastName = "Fudge"
+petName = "Figgy"
+
+console.log(firstName)
+console.log(lastName)
+console.log(petName)
